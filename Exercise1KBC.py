@@ -1,32 +1,5 @@
 # Create a program capable of diaplaying questions to user like KBC.
 
-# import threading
-# from playsound import playsound
-# import time
-
-# # Function to play background music
-# def play_music():
-#     playsound("kbc-awesome-.py")  # or .wav if you're using wav
-
-# # Start the music in background
-# music_thread = threading.Thread(target=play_music)
-# music_thread.start()
-
-# # Your KBC game code below
-# print("🎤 Welcome to Kaun Banega Crorepati!\n")
-# time.sleep(1)
-# print("Here is your first question...\n")
-
-# # # Simulate game (replace with your game logic)
-# # for i in range(5):
-# #     print(f"Question {i+1}")
-# #     time.sleep(2)
-
-
-
-
-
-
 
 print("**********************************************************************DEVIYO aur SAJJANO SWAGAT HAI AAPKA *******************************************************")
 print("***************************************************************************KON BANEGA CROREPATI MAI**************************************************************")
