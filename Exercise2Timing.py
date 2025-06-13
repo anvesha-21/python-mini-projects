@@ -5,12 +5,12 @@ hour = int(time.strftime('%H'))
 hour = int(input("Enter Number:"))
 
 if(hour >= 4 and hour <= 12):
-    print("@Good Morning")
+    print("@ GOOD MORNING")
 elif(hour >= 12 and hour <= 17):
-    print("@Good AFterNoon")
+    print("@ GOOD AFTERNOON")
 elif(hour >= 17 and hour <= 20):
-    print("@Good Evening")
+    print("@ GOOD EVENING")
 else:
-    print("GOOD NIGHT")
+    print("@ GOOD NIGHT")
 
 
