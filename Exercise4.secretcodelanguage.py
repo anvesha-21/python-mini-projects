@@ -1,25 +1,25 @@
 # My Version!
 
-# dic = {'name' }  
-# dic2 ={'nasmem' }  
-# # print (dic2.remove("sm"))
-# dic = ("What you are doing write now")
-# dic2 =("hatw oyu rea iondg rtiew own")
-# print(dic2)
-# print("HINT : All the letters are placed in incorrect way correct it and rewrite the sentence and decode it ...")
-# user = input("Decode the message: ")
+dic = {'name' }  
+dic2 ={'nasmem' }  
+# print (dic2.remove("sm"))
+dic = ("What you are doing write now")
+dic2 =("hatW oyu rea iondg rtiew own")
+print(dic2)
+print("HINT : All the letters are placed in incorrect way correct it and rewrite the sentence and decode it ...")
+user = input("Decode the message: ")
 
 
 
 
-# #decoding
-# if(user==dic):
-#     print("Correct Decoding")
-# else:
-#     print("Failed")
+#decoding
+if(user==dic):
+    print("Correct Decoding")
+else:
+    print("Failed")
 
 
-# # coding
+# coding
 # str=("sheanvsh")
 
 # str2 = ("Anvesha")
