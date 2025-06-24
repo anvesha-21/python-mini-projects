@@ -1,5 +1,7 @@
-# dic = {'name' }   #'anvesha' , 'age' : 19 }
-# dic2 ={'nasmem' }   #'anvesmeshasma' , 'asmeg' : 'nismightenn nusmumber mai'}
+# My Version!
+
+# dic = {'name' }  
+# dic2 ={'nasmem' }  
 # # print (dic2.remove("sm"))
 # dic = ("What you are doing write now")
 # dic2 =("hatw oyu rea iondg rtiew own")
@@ -36,7 +38,7 @@
 # else:
 #  print("failed")
 
-# Code With Harry solution
+# Code With Harry Version!
 
 # st = input("Enter the message:")
 # words = st.split(" ")
@@ -69,13 +71,6 @@
          
 
 
-# My created encryption
-
-message = input("Enter a message:")
-
-word = 0
-if word[ 1 : ]:
-    print("bhd")
 
 
 
