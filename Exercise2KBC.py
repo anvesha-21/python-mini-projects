@@ -12,7 +12,7 @@ print("Welcome to Kaun Banega Crorepati – where every answer brings you closer
 
 questions =[
 
-["Q1. Which language was used to create Facebook?" , "Python" , "French" , "Hindi" , "Php" , "None" , 4],
+["Q1. Who is the first love of Krishna" , "Radha" , "Sita" , "Laxmi" , "Mohini"  , 1],
 
 ["Q2. Who was the first Indian to win an individual Olympic gold medal? " , "Leander Paes" ,"Abhinav Bindra" ,  "Rajyavardhan Singh Rathore" , "Karnam Malleswari" , 2 ] , 
 
