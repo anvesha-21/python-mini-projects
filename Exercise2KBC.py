@@ -20,7 +20,7 @@ questions =[
 
 ["Q4.Who is credited with the discovery of the neutron" , "James Chadwick" ,  "Ernest Rutherford" , "JJ.Thomson" ,  "Niels Bohr" , 1],
 
-["Q5. Which Indian classical musician was awarded Bharat Ratna in 1999 posthumously?" , "Bismillah Khan" ,  "M.S Subbulakshmi" , "Pandit Bhimsen Joshi" , "Amjad Ali Khan"],
+["Q5. Which Indian classical musician was awarded Bharat Ratna in 1999 posthumously?" , "Bismillah Khan" ,  "M.S Subbulakshmi" ,"Pandit Ravi Shankar" , "Amjad Ali Khan" , 3 ],
 
 ["Q6.Who was the first Prime Minister of independent India?" , ". Subhas Chandra Bose" , " Jawaharlal Nehru" , ". Mahatma Gandhi" , "Dr. Rajendra Prasad" , 2 ],
 
