@@ -7,12 +7,16 @@ string = input("  Aapka Subh Naam :- ")
 print("Hello.." , string)
 print("Welcome to Kaun Banega Crorepati – where every answer brings you closer to your crore-dream!\n\n")
 
+print("""Aapke paas 4 vikalp hain...
+Option 1 se leke Option 4 tak.
+Apna uttar chuniye — aur agar aap khel chhodna chahein, toh 0 dabaiye:- \n""")
+
 
 
 
 questions =[
 
-["Q1. Who is the first love of Krishna" , "Radha" , "Sita" , "Laxmi" , "Mohini"  , 1],
+["Q1. Which language was used to create Facebook?" , "Python" , "French" , "Hindi" , "Php" , "None" , 4],
 
 ["Q2. Who was the first Indian to win an individual Olympic gold medal? " , "Leander Paes" ,"Abhinav Bindra" ,  "Rajyavardhan Singh Rathore" , "Karnam Malleswari" , 2 ] , 
 
@@ -20,7 +24,7 @@ questions =[
 
 ["Q4.Who is credited with the discovery of the neutron" , "James Chadwick" ,  "Ernest Rutherford" , "JJ.Thomson" ,  "Niels Bohr" , 1],
 
-["Q5. Which Indian classical musician was awarded Bharat Ratna in 1999 posthumously?" , "Bismillah Khan" ,  "M.S Subbulakshmi" ,"Pandit Ravi Shankar" , "Amjad Ali Khan" , 3 ],
+["Q5. Which Indian classical musician was awarded Bharat Ratna in 1999 posthumously?" , "Bismillah Khan" ,  "M.S Subbulakshmi" , "Pandit Ravi Shankar" , "Amjad Ali Khan" , 3],
 
 ["Q6.Who was the first Prime Minister of independent India?" , ". Subhas Chandra Bose" , " Jawaharlal Nehru" , ". Mahatma Gandhi" , "Dr. Rajendra Prasad" , 2 ],
 
@@ -54,9 +58,12 @@ for i  in range (0 , len (questions)):
     print("")
     print(f"Question for Rs.{levels[i]}")
     print(question[0])
-    print(f"a.{question[1]}                 b.{question[2]}   ")
-    print(f"c.{question[3]}                 d.{question[4]}   ")
-    reply = int(input("Enter your answer (1-4) or 0 to Quit : \n"))
+    print(f"a.{question[1]}")                
+    print(f"b.{question[2]}")   
+    print(f"c.{question[3]} ")         
+    print(f"d.{question[4]}\n")   
+    reply = int(input("Answer Your Question:-"))
+    
     if(reply == 0):
         money = levels[i-1]
         break
