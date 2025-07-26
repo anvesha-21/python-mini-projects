@@ -1,12 +1,4 @@
 import random
-# Rock Paper Sizzzor Rules
-# '''  Snake , Water and Gun is a variation of the children's game "rock-paper-sizzor"
-    #  where players use hand gestures to represents a snake , 
-    #  water, gyn .The gun beats the snake , the water beates the gun and the snake drinks the water .
-    #  Write a python program to create a Snake water Gun game in
-    #  python using if-else statements.Do not create any fancy GUI.Use proper functions to check for win.'''
-
-
 
 # Computer chooses a random number from 1, 2, or 3
 computer = random.choice([1, 2, 3])
